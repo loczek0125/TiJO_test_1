@@ -1,7 +1,11 @@
 node_modules
 dist
 .tmp
-.sass-cache
+.sasa-cache
 bower_components
 *.iml
+
+
+app/**/*.html
 .idea
+
